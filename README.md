@@ -1,4 +1,4 @@
-# infotrixs_task
+# infotrixs
 
 The task is to create a command-line weather checking application using Python. The application should have several functionalities and features, and it should interact with a weather data API to fetch and display weather information for various cities. Here's a breakdown of the task:
 
